@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Hacking**
 
-- 📝 I regularly write articles on [Technicalsash.blogspot.com](Technicalsash.blogspot.com)
+- 📝 I regularly write articles on [https://technicalsash.blogspot.com/]
 
 - 💬 Ask me about **Android,Hacking Tools,etc**
 
