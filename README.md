@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Hacking tool for Termux**
 
-- 🌱 I’m currently learning *B.Tech**
+- 🌱 I’m currently learning *Bsc Computer science**
 
 - 🤝 I’m looking for help with **Hacking**
 
 - 📝 I regularly write articles on [https://technicalsash.blogspot.com/]
 
-- 💬 Ask me about **Android,Hacking Tools,etc**
+- 💬 Ask me about **App development,Website building,UI/UX Degine, Hacking or Andriod/IOS etc**
 
 - 📫 How to reach me **Kingash1530@gmail.com**
 
